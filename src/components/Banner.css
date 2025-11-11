@@ -1,0 +1,13 @@
+
+.banner {
+  width: 87%;
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+.banner-image {
+  width: 50%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}

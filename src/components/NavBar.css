@@ -1,0 +1,41 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 10px 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  justify-content: space-between;
+}
+
+.logo {
+  color: #2874f0;
+  font-weight: bold;
+}
+
+.plus {
+  color: orange;
+  font-size: 12px;
+}
+
+input {
+  width: 50%;
+  padding: 8px;
+  border: none;
+  border-radius: 2px;
+  background-color: #f0f0f0;
+}
+
+.login-btn {
+  background-color: white;
+  color: #2874f0;
+  border: 1px solid #2874f0;
+  padding: 6px 16px;
+  margin-left: 10px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.menu span {
+  margin-left: 15px;
+  font-size: 14px;
+}
